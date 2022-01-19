@@ -1,2 +1,3 @@
-# hidden-console
-A util tool for hidden console.x by some condition.
+# console-supervisor
+
+A util tool for manage console.x by some condition.
